@@ -35,7 +35,7 @@ width: 50%;
 	color: #e74f4d;
 }
 .topright li{
-	color: #393a3a;
+	color: #393a3a !important;
 }
 .topright li a:hover,.topright li a:active{
 	color: #e74f4d;
