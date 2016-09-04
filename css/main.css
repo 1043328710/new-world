@@ -532,6 +532,8 @@ width: 250px;
 	width: 80px;
 	height: 35px;
 	cursor:pointer;
+	color: #fff;
+	background-color: #707278;
 	float: left;
 }
 .icon{
