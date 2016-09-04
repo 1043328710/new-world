@@ -31,10 +31,10 @@ width: 50%;
 	padding: 19px 22px;    
 	display: block;
 }
-.land a:link{
+.land a{
 	color: #e74f4d;
 }
-.topright li a:link{
+.topright li{
 	color: #393a3a;
 }
 .topright li a:hover,.topright li a:active{
