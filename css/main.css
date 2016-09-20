@@ -1,3 +1,6 @@
+.all{
+	width:1350px;
+}
 /*top*/
 .top{
 	height: 58px;
@@ -31,11 +34,11 @@ width: 50%;
 	padding: 19px 22px;    
 	display: block;
 }
-.land a{
+.land a:link{
 	color: #e74f4d;
 }
-.topright li{
-	color: #393a3a ;
+.topright li a:link{
+	color: #393a3a;
 }
 .topright li a:hover,.topright li a:active{
 	color: #e74f4d;
